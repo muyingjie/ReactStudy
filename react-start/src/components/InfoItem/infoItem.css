@@ -1,0 +1,8 @@
+.info-item{ margin: 10px 10px 10px 40px;}
+.info-item .name{ margin-left: 10px;}
+.info-item .comment{ margin-left: 30px;}
+.info-item .date{ margin-top: 22px;}
+.info-item .reply{ margin-top: 5px; width: 40px;}
+.info-item .reply-wrap{ margin-top: 10px;}
+.info-item .reply-textarea{ margin-top: 10px;}
+.sub-comment{ margin-left: 30px;}

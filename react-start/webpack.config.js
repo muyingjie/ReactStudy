@@ -49,5 +49,12 @@ module.exports = {
             Component: ["react", "Component"],
             PT: "prop-types"
         })
-    ]
+    ],
+    resolve: {
+        modules: [
+            "node_modules",
+            path.resolve(__dirname, "src/common"),
+            path.resolve(__dirname, "src/components")
+        ]
+    }
 };
